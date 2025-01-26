@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-To be or not to be.
-
-Therefore to think.
+1. index.html
